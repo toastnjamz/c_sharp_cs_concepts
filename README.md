@@ -1,1 +1,1 @@
-# linked_list
+# Exercises to practice data structures and algorithms.
